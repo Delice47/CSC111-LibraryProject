@@ -1,6 +1,7 @@
 package librarysimulation;
 
-//Student name: Abdulrhman Alshurihi - 446102314
+//Abdulrhman Alshurihi - 446102314
+//GitHub Repository: https://github.com/Delice47/CSC111-LibraryProject
 
 public class Member {
 
