@@ -1,6 +1,9 @@
 package librarysimulation;
 
-//Student name: Abdulrhman Alshurihi - 446102314
+//1.1 Small update
+
+//Abdulrhman Alshurihi - 446102314
+//GitHub Repository: https://github.com/Delice47/CSC111-LibraryProject
 
 import java.util.Scanner;
 
@@ -87,7 +90,7 @@ public class LibrarySimulator {
 
              case 5: // Exit
                  programRunning = false;
-                 System.out.println("Goodbye!");
+                 System.out.println("Logging out... Goodbye!");
                  break;
 
              default:
@@ -125,7 +128,7 @@ public class LibrarySimulator {
                  break;
              case 5:
                  sessionActive = false;
-                 System.out.println("Logging out...");
+                 System.out.println("Logging out... Goodbye!");
                  break;
              default:
                  System.out.println("Invalid choice.");
